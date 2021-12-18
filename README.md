@@ -1,7 +1,6 @@
-# my-profile-extension
+# RC-profile-extension
 
-Chrome extension for my profile and portfolio,
-[Figma template](https://www.figma.com/file/acnpmbxem4kHsUkfp81EZ9/Portfolio-Extension?node-id=0%3A1)
+Chrome extension for my profile and portfolio.
 
 ## Installation
 
@@ -19,12 +18,12 @@ After cloning the repository, open your Chrome browser and type `chrome://extens
 
 ### Upload project
 
--   Turn on developer mode in the upper right corner
--   And upload project folder
-    ![Uploading extension](https://i.postimg.cc/SKVcbfRP/dev-mode-turn-on.png)
+- Turn on developer mode in the upper right corner
+- And upload project folder
+  ![Uploading extension](https://i.postimg.cc/SKVcbfRP/dev-mode-turn-on.png)
 
 ### Result
 
 And now you can see the result!
 <br>
-![The extension works](https://i.postimg.cc/gJJ8zL62/result.png)
+![The extension works](https://postimg.cc/N5hq0pR0)
