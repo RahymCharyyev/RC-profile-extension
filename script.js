@@ -27,6 +27,7 @@ let buttonGlo = document.querySelector("#button-glo");
 let buttonRc = document.querySelector("#button-rc");
 let buttonOrg = document.querySelector("#button-org");
 let buttonRace = document.querySelector("#button-race");
+let buttonTrvl = document.querySelector("#button-trvl");
 buttonLn.addEventListener("click", () =>
   copyToClipboard("https://www.linkedin.com/in/rahym-charyyev-451b19214/")
 );
@@ -53,4 +54,7 @@ buttonOrg.addEventListener("click", () =>
 );
 buttonRace.addEventListener("click", () =>
   copyToClipboard("https://rahymcharyyev.github.io/RaceJs/")
+);
+buttonTrvl.addEventListener("click", () =>
+  copyToClipboard("https://trvl-landing-page.vercel.app/")
 );
