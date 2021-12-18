@@ -26,4 +26,4 @@ After cloning the repository, open your Chrome browser and type `chrome://extens
 
 And now you can see the result!
 <br>
-![The extension works](https://postimg.cc/N5hq0pR0)
+![The extension works](https://i.postimg.cc/ZKnTVQR6/Screenshot-1.png)
