@@ -1,7 +1,7 @@
 :root {
-  --accent-color: #e7e6e6;
+  --accent-color: #202020;
   --secondary-color: #701598;
-  --deep-blue: #020633;
+  --deep-blue: #e7e6e6;
   --tooltip-bg: #616161;
 }
 
@@ -9,13 +9,23 @@ body {
   padding: 0;
   margin: 0;
   background-color: var(--deep-blue);
-  color: #fff;
+  color: #000;
   font-family: sans-serif;
 }
 /* Special selectors */
 hr {
   width: 100%;
 }
+
+img {
+  width: 50px;
+  height: 50px;
+}
+
+span {
+  width: 250px;
+}
+
 .vertical-rule {
   border: none;
   border-left: 1px solid #ccc;
@@ -25,7 +35,7 @@ hr {
 a {
   font-size: 1.2rem;
   cursor: pointer;
-  color: #fff;
+  color: #000;
   text-decoration: none;
   font-weight: 600;
 }
