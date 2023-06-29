@@ -1,15 +1,16 @@
 :root {
-  --accent-color: #202020;
-  --secondary-color: #701598;
-  --deep-blue: #e7e6e6;
-  --tooltip-bg: #616161;
+  --text-color: #e7e6e6;
+  --deep-grey: #202020;
+  --tooltip-bg: #202020;
+
+  /* 616161 */
 }
 
 body {
   padding: 0;
   margin: 0;
-  background-color: var(--deep-blue);
-  color: #000;
+  background-color: var(--deep-grey);
+  color: var(--text-color);
   font-family: sans-serif;
 }
 /* Special selectors */
@@ -35,15 +36,15 @@ span {
 a {
   font-size: 1.2rem;
   cursor: pointer;
-  color: #000;
+  color: var(--text-color);
   text-decoration: none;
   font-weight: 600;
 }
 /* * BUTTON */
 .copy-btn {
-  border: 1px solid var(--accent-color);
+  border: 1px solid var(--text-color);
   border-radius: 5px;
-  color: var(--accent-color);
+  color: var(--text-color);
   background-color: var(--deep-blue);
   padding: 0.3rem 0.9rem;
   font-size: 1.1rem;
@@ -92,8 +93,8 @@ a {
   opacity: 1;
 }
 .copy-btn:hover {
-  color: var(--deep-blue);
-  background-color: var(--accent-color);
+  color: black;
+  background-color: var(--text-color);
   transition: all 0.2s;
 }
 /* ***** */
