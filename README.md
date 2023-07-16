@@ -9,7 +9,7 @@ Chrome extension for my profile and portfolio.
 At the first clone the repository
 
 ```bash
-git clone https://github.com/addTvb/my-profile-extension.git
+git clone https://github.com/RahymCharyyev/RC-profile-extension.git
 ```
 
 ### Open extensions settings
