@@ -35,6 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "#button-habr",
     "https://career.habr.com/rahymcharyyev"
   );
+  addButtonClickListener("#button-linktree", "https://linktr.ee/rahymcharyyev");
   addButtonClickListener(
     "#button-insta",
     "https://www.instagram.com/charyyev_rahym/"
@@ -48,6 +49,10 @@ document.addEventListener("DOMContentLoaded", () => {
   addButtonClickListener(
     "#button-asteroids",
     "https://rahymcharyyev.github.io/asteroids-app/"
+  );
+  addButtonClickListener(
+    "#button-yts",
+    "https://youtube-search-tau.vercel.app/"
   );
   addButtonClickListener(
     "#button-spacex",
